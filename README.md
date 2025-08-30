@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adarsh8511
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning html,CSS,Js,Core Java
+- 🌱 I’m currently working on html,CSS,Js,Core Java
 - 📫 How to reach me - 8756509009
 
 <!---
